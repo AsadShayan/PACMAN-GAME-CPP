@@ -1,6 +1,6 @@
-**Pacman Game in C++**
+__**Pacman Game in C++**__
 
-Welcome to my Pacman game written in C++! 🎮
+<span style="color:blue">Welcome to my Pacman game written in C++! 🎮</span>
 
 About
 
