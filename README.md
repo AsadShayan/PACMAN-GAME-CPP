@@ -37,9 +37,16 @@ Navigate through the maze, eat dots, and avoid ghosts to advance through levels.
 ## Screenshots
 
 
-![github-pacman-2](https://github.com/AsadShayan/PACMAN-GAME-CPP/assets/153836414/0e425b12-fc5a-4429-a0c7-62aa0a6b4a64)
+![github-pacman-2](https://github.com/AsadShayan/PACMAN-GAME-CPP/assets/153836414/1bc4dffb-2f97-4c86-8aa0-3a51723d8ec7)
 
 
+## Clone the Repository
+
+To clone this repository and try the game on your local machine, run the following command:
+
+```bash
+git clone https://github.com/asadshayan/pacman-game.git
+```
 
 ## Author
 
