@@ -1,4 +1,4 @@
-#Pacman Game in C++
+*Pacman Game in C++*
 
 Welcome to my Pacman game written in C++! 🎮
 
