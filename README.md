@@ -21,7 +21,7 @@ Features
 
 Screenshots
 ![github-pacman-1](https://github.com/AsadShayan/PACMAN-GAME-CPP/assets/153836414/faee4cbc-4fee-46b0-8dca-87ea49f38aa7)
-![github-pacman-2](https://github.com/AsadShayan/PACMAN-GAME-CPP/assets/153836414/2ffe35dc-d75b-4b53-ade3-f7da3e64553e)
+      ![github-pacman-2](https://github.com/AsadShayan/PACMAN-GAME-CPP/assets/153836414/2ffe35dc-d75b-4b53-ade3-f7da3e64553e)
 
 Getting Started
 
