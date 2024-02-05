@@ -1,8 +1,9 @@
-__**Pacman Game in C++**__
+Pacman Game in C++
 
-<span style="color:blue">Welcome to my Pacman game written in C++! 🎮</span>
+Welcome to my Pacman game written in C++! 🎮
 
-About
+
+About:
 
 This Pacman game is a terminal-based implementation, where you control Pacman to eat dots while avoiding obstacles and ghosts. It's a classic and nostalgic experience brought to your console!
 How to Play
@@ -25,17 +26,15 @@ Screenshots
 Getting Started
 
     Clone this repository:
-
     bash
-
 git clone https://github.com/YourUsername/Pacman-Game-CPP.git
 
+
 Compile and run the game:
-
 bash
-
     g++ pacman.cpp -o pacman
     ./pacman
+
 
 Controls
 
